@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/review/
+data_mnist/
+.DS_Store
+paper/old/
+paper/main_display.*
